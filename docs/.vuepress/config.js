@@ -2,7 +2,7 @@ module.exports = {
     title: '标题信息',
     description: '描述信息.',
     themeConfig: {
-        repo: 'dvajs/dva',
+        repo: '/websiteTest/',
         lastUpdated: 'Last Updated',
         editLinks: true,
         editLinkText: '在 GitHub 上编辑此页',
